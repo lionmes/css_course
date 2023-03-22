@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+body {
+    font-size: 29px;
+}
+
+main {
+    font-family: monospace
+}
+
+p {
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.highlight {
+    background-color: gold;
+}
+
+#pchild {
+    color: green;
+}
+/* #specify .li-class{
+    font-size: 29px;
+    color: rgb(255, 18, 18);
+} */
+/* ul{
+    list-style-type: circle;
+    text-align: center;
+    list-style-position: inside;
+    color: #82a71c;
+    font-size: 36px;
+    font-weight: 700;
+    list-style-image: url(/images/checklist.png);
+    
+} */
+/* ul li:first-child {
+    color: #004610;
+    }
+ul li:nth-child(2) {
+color: #035f17;
+}
+ul li:nth-child(3) {
+    color: #00a023;
+    }
+    ul li:last-child {
+        color: #00f335;
+        } */
+/*      
+ul li:not(:last-child){
+    color: #00eb1f;
+} */
+
+a{
+    font-size: 40px;
+    color: blue;
+}
+a:focus{
+    color: #bbff00;
+}
+a:hover{
+    color: aqua;
+    text-decoration: none;
+}
+a:active{
+    color: #7082cf;
+}
+
